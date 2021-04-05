@@ -1,5 +1,5 @@
-git config
-git init
+git config --> added newly
+git init	--> another modification
 git clone
 git add
 git commit
